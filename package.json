@@ -1,0 +1,24 @@
+{
+  "name": "ymnews",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido como estudo do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaghomattos/ymnews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaghomattos/ymnews/issues"
+  },
+  "homepage": "https://github.com/yaghomattos/ymnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
